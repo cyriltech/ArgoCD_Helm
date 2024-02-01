@@ -13,4 +13,4 @@ deployment:
     labels:
       app: mongo-db
 
-image: mariadb
+image: mongo
