@@ -13,6 +13,6 @@ deployment:
   spec:
     containers:
     - name: mongo-express
-      image: mongo-express
+      image: wordpress
       ports:
       - containerPort: 8081
